@@ -29,10 +29,10 @@ Gosto muito de desenvolver sites. Curto JavaScript, Python, PHP, CSS e até SQL.
 ##
 
 <a href="https://github.com/MikaelFM/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MikaelFM&show_icons=true&theme=radical&include_all_commits=true" />
+  <img height=200 width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=MikaelFM&show_icons=true&theme=radical&include_all_commits=true" />
 </a>
 <a href="https://github.com/MikaelFM/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelFM&theme=radical&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 width="305" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelFM&theme=radical&layout=compact&langs_count=8" />
 </a>
 
 
