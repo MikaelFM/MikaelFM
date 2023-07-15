@@ -6,7 +6,6 @@ Gosto muito de desenvolver sites. Curto JavaScript, Python, PHP, CSS e até SQL.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mikaelfernandesmoreira@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikael-fernandes-moreira-77739721b)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mikael_fm?igshid=ZDc4ODBmNjlmNQ==)
 
 ##
 
