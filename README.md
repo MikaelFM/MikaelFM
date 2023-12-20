@@ -1,8 +1,8 @@
 ### <h1>Hello World!</h1> 
 
-Olá! Me chamo <b>Mikael Fernandes Moreira</b> e tenho 18 anos. Atualmente, sou estudante do IFRS - Campus Farroupilha, no curso de Técnologia da Informação. Também trabalho como desenvolvedor web na Multi24h. 
+Olá! Me chamo <b>Mikael Fernandes Moreira</b> e tenho 19 anos. Atualmente, sou estudante do IFRS - Campus Farroupilha, no curso de Técnologia da Informação. Também trabalho como desenvolvedor web na Multi24h. 
 
-Gosto muito de desenvolver sites. Curto JavaScript, Python, PHP, CSS e até SQL.
+Programação é meu Hobby. Entre minhas linguagens preferidas estão JavaScript, Python, PHP, CSS e até SQL.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mikaelfernandesmoreira@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikael-fernandes-moreira-77739721b)
