@@ -1,6 +1,6 @@
 ### <h1>Hello World!</h1> 
 
-Olá! Me chamo <b>Mikael Fernandes Moreira</b> e tenho 19 anos. Atualmente, sou estudante do IFRS - Campus Farroupilha, no curso de Técnologia da Informação. Também trabalho como desenvolvedor web na Multi24h. 
+Olá! Me chamo <b>Mikael Fernandes Moreira</b> e tenho 19 anos. Atualmente, sou estudante do <b>IFRS - Campus Farroupilha</b>, no curso de Técnologia da Informação. Também trabalho como desenvolvedor web na <b>Multi24h</b>. 
 
 Programação é meu Hobby. Entre minhas linguagens preferidas estão JavaScript, Python, PHP, CSS e até SQL.
 
